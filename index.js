@@ -1,2 +1,2 @@
 
-var recites = {}
+var recipes = {}
